@@ -20,7 +20,8 @@ Data Structures and Algorithms using Python and Java
 | ------------- |:-------------:| -----:|
 | 1      | [Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem?h_r=email&unlock_token=08a050cc8820a7bdc9aa03dba047a0465a8fd51f&utm_campaign=30_days_of_code_continuous&utm_medium=email&utm_source=daily_reminder) |[C++](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/n-days-of-codes/day0_hello-world.cpp). [Python](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/n-days-of-codes/day0_hello-world.py).  [Java](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/n-days-of-codes/day0_hello-world.java)|
 |2|[Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem?h_r=email&unlock_token=08a050cc8820a7bdc9aa03dba047a0465a8fd51f&utm_campaign=30_days_of_code_continuous&utm_medium=email&utm_source=daily_reminder&h_r=next-challenge&h_v=zen)|[C++](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/n-days-of-codes/day1_data-types.cpp). [Python](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/n-days-of-codes/day1_data-types.py). [Java](https://github.com/shreyasr3/data-structures-and-algorithms/tree/main/n-days-of-codes/day1_data-types.java)|
-|3|||
+|3|[Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem?h_r=email&unlock_token=99bf70851784b7425d9ff6d5079e2cca6732b008&utm_campaign=30_days_of_code_continuous&utm_medium=email&utm_source=daily_reminder)|[C++](). [Python](). [Java](). |
+|4|||
 
 
 # LeetCode
