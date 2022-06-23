@@ -37,7 +37,7 @@ Data Structures and Algorithms using Python and Java
 
 ## Algorithms
 
-| Sr. No        | Topic           | Code  |
-| ------------- |:-------------:| -----:|
-|1|[704. Binary Search](https://leetcode.com/problems/binary-search/)|[Algorithms](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/algorithms/704-binary-search.py)|
+| Sr. No        | Topic           | Code  | Reference |
+| ------------- |:-------------:| -----:| --------:|
+|1|[704. Binary Search](https://leetcode.com/problems/binary-search/)|[Algorithms](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/algorithms/704-binary-search.py)|[Article](https://medium.com/swlh/binary-search-deep-dive-c9a0a558192e)|
 
