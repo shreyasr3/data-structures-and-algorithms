@@ -4,7 +4,7 @@ class Solution:
         hi = len(nums) - 1
         
         while lo <= hi:
-            mid = lo + (hi - lo) // 2
+            mid = (lo + hi) >> 1
             if target == nums[mid]:
                 return mid
             if target < nums[mid]:
