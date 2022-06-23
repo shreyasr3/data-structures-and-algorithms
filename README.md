@@ -26,10 +26,18 @@ Data Structures and Algorithms using Python and Java
 
 # LeetCode
 
-## Table of Contents
+## Random
 
 | Sr. No        | Topic           | Code  |
 | ------------- |:-------------:| -----:|
 | 1|[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[LeetCode Easy](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/codes/leetcode-easy/13-roman-to-integer.py)|
 |2|[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[LeetCode Easy](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/codes/leetcode-easy/12-integer-to-roman.py)|
 |3|||
+
+
+## Algorithms
+
+| Sr. No        | Topic           | Code  |
+| ------------- |:-------------:| -----:|
+|1|[704. Binary Search](https://leetcode.com/problems/binary-search/)|[Algorithms](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/algorithms/704-binary-search.py)|
+
