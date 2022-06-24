@@ -33,6 +33,7 @@ Data Structures and Algorithms using Python and Java
 | 1|[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[LeetCode Easy](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/codes/leetcode-easy/13-roman-to-integer.py)|
 |2|[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[LeetCode Easy](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/codes/leetcode-easy/12-integer-to-roman.py)|
 |3|[1. Two Sum](https://leetcode.com/problems/two-sum/)|[LeetCode Easy](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/codes/leetcode-easy/1-two-sum.py)|
+|4|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[LeetCode Medium](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/codes/leetcode-medium/2-add-two-numbers.py)|
 
 
 ## Algorithms
