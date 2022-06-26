@@ -47,3 +47,4 @@ Data Structures and Algorithms using Python and Java
 |5|[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[LeetCode Medium](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/algorithms/189-rotate-array.py)|[Article]()|
 |6|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[LeetCode Easy](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/algorithms/283-move-zeroes.py)|[Article]()|
 |7|[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[LeetCode Medium](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/algorithms/167-two-sum-II.py)|[Article]()|
+|8|[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[LeetCode Easy](https://github.com/shreyasr3/data-structures-and-algorithms/blob/main/algorithms/344-reverse-string.py)|[Article]()|
