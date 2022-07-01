@@ -4,7 +4,7 @@ class Solution:
         return " ".join([sl[::-1] for sl in str_list])
         
      
-## O(n)
+## O(n) - Two-pointer
 
 class Solution:
     def reverseWords(self, s: str) -> str:
